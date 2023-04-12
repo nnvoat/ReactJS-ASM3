@@ -1,0 +1,66 @@
+.formmain {
+  font-style: italic;
+}
+
+.billing {
+  margin-top: 2rem;
+  font-style: italic;
+}
+
+.labelinput {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.8rem;
+}
+
+.labelinput input {
+  padding: 0.5rem 1rem;
+}
+
+.formmain button {
+  margin: 1rem 0;
+  padding: 0.5rem 1.5rem;
+  font-style: inherit;
+  font-weight: lighter;
+  border-color: transparent;
+  background-color: #343a40;
+  color: #fff;
+}
+
+.ordermain {
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  font-style: italic;
+}
+
+.ordermain h4 {
+  margin: 1rem 0 2rem 0;
+}
+
+.ordermain .orderx {
+  margin: 0 0.2rem;
+}
+
+.ordertotal,
+.ordertotal3 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.2rem;
+}
+
+.ordertotal p {
+  font-size: 0.9rem;
+  color: #868e96;
+}
+
+.ordertotal {
+  border-bottom: 1px solid #868e96;
+}
+
+.ordertotal3 {
+  margin-top: 0.5rem;
+}
+
+.ordertotal3 p {
+  font-size: 1.2rem;
+}

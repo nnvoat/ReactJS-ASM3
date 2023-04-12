@@ -1,0 +1,39 @@
+.imgproduct {
+  width: 100%;
+}
+
+.btnx {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btnx button {
+  border-color: transparent;
+  background-color: transparent;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.text {
+  margin-bottom: 2rem;
+}
+
+.text h4 {
+  font-size: 1.1rem;
+  color: #868e96;
+  font-style: italic;
+}
+
+.btnshopping {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  background-color: #343a40;
+  font-size: 1.2rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 0.3rem;
+}
+
+.iconshopping {
+  margin-right: 0.5rem;
+}

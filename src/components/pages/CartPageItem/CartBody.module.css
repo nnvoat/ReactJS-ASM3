@@ -1,0 +1,104 @@
+.shoppingcart {
+  margin: 2rem 0 1.5rem 0;
+  font-style: italic;
+}
+
+.cartmain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.2rem 3rem;
+  background-color: #f8f9fa;
+  font-style: italic;
+}
+
+.productinfo {
+  justify-content: center;
+}
+
+.productinfo .productcol1 {
+  text-align: center;
+}
+
+.productinfo h5 {
+  background-color: #f8f9fa;
+}
+
+.productcol4 button {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.totalmain {
+  padding: 1.5rem 2.5rem 1.5rem 1.5rem;
+  background-color: #f8f9fa;
+  font-style: italic;
+}
+
+.totalflex1 {
+  display: flex;
+  margin-top: 2rem;
+  justify-content: space-between;
+  border-bottom: 0.1rem solid #adb5bd;
+}
+
+.totalflex1 p {
+  color: #adb5bd;
+}
+
+.totalflex2 {
+  margin: 0.8rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.totalflex2 p {
+  font-size: 1.1rem;
+}
+
+.totalbtn {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.totalbtn input {
+  padding: 0.5rem;
+}
+
+.totalbtn button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #343a40;
+  color: #fff;
+  border: none;
+  padding: 0.3rem;
+}
+
+.icongift {
+  margin-right: 0.5rem;
+}
+
+.checkout {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  background-color: #f8f9fa;
+}
+
+.checkout button {
+  font-style: italic;
+}
+
+.checkout .btn1 {
+  padding: 0.5rem;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.checkout .btn2 {
+  background-color: transparent;
+  padding: 0.5rem;
+  border: 0.1rem solid #343a40;
+}

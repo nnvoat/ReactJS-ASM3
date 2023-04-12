@@ -1,0 +1,57 @@
+.maindetail {
+  margin: 2rem 0;
+  font-style: italic;
+}
+
+.maindetail img {
+  width: 100%;
+}
+
+.mainrow1 {
+  align-items: center;
+}
+
+.mainrow1 h4 {
+  color: #868e96;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.mainrow1 p {
+  color: #868e96;
+}
+
+.mainrow1flex {
+  display: flex;
+}
+
+.mainrow1flex p {
+  margin-left: 0.5rem;
+}
+
+.mainrow1 button {
+  background-color: #343a40;
+  border-color: #343a40;
+  color: #fff;
+  font-style: inherit;
+}
+
+.mainrow2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.mainrow2 button {
+  padding: 0.5rem;
+  background-color: #343a40;
+  color: #fff;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-style: inherit;
+  border-color: transparent;
+}
+
+.mainrow2 p {
+  color: #868e96;
+  text-align: justify;
+}

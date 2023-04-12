@@ -1,0 +1,13 @@
+.text {
+  font-style: italic;
+}
+
+.text p {
+  color: #868e96;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.text h4 {
+  margin-bottom: 1rem;
+}

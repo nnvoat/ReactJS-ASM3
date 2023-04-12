@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.2rem 1rem;
+  font-style: italic;
+}
+
+.header button {
+  margin: 0 0.2rem;
+  font-style: inherit;
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+}
+
+.header h2 {
+  cursor: pointer;
+}
+
+.home {
+  color: #fab005;
+}
+
+.icon {
+  color: #adb5bd;
+  margin-right: 0.2rem;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+}
+
+.user button {
+  padding: 0;
+}
+
+.header2 {
+  display: flex;
+}

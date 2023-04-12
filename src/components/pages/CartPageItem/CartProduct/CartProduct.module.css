@@ -1,0 +1,30 @@
+.productmain {
+  align-items: center;
+  font-style: italic;
+}
+
+.image img {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.col2 h5 {
+  background-color: transparent;
+  font-style: inherit;
+}
+
+.col4 button {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.col3,
+.col5 {
+  color: #adb5bd;
+}
+
+.col6trash {
+  cursor: pointer;
+}

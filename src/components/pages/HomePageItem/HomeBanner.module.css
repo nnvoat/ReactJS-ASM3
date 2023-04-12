@@ -1,0 +1,27 @@
+.bannerimg {
+  position: relative;
+}
+
+.bannertext {
+  width: 20%;
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.bannertext p {
+  margin-bottom: 0;
+  color: #868e96;
+}
+
+.bannertext button {
+  padding: 0.5rem 1rem;
+  color: #fff;
+  font-size: 1.1rem;
+  font-style: inherit;
+  border-color: transparent;
+  background-color: #343a40;
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+  padding: 4rem 3rem;
+  background-color: #f8f9fa;
+  font-style: italic;
+}
+
+.btn button {
+  border-color: transparent;
+  background-color: transparent;
+  font-style: inherit;
+  color: #868e96;
+}
